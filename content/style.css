@@ -53,6 +53,10 @@ h2 { /* Reduced clutter to generalised h2,h3, adds margin and sets font size */
     cursor: default;
 }
 
+img{
+    max-width: auto;
+}
+
 .hero {
     /* Sizing */
     width: 100vw;

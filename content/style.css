@@ -173,7 +173,7 @@ h2 { /* Reduced clutter to generalised h2,h3, adds margin and sets font size */
     max-height:560px;
     margin-right: 50px;
     border-radius: 10px;
-    background-image: url("https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/54/Skin_Loading_Screen_Nightbringer_Lee_Sin.jpg/revision/latest?cb=20191130222822");
+    background-image: url("./images/lee-sin-2.jpg");
     box-shadow: 7px 15px 10px rgb(0 0 0 / 0.2);
     transition: transform .2s; /* Animation */
 }
